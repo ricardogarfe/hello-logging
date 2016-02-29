@@ -1,0 +1,14 @@
+group 'org.ricardogarfe.logging'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'log4j:log4j:1.2.17'
+
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}

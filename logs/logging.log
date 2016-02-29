@@ -1,0 +1,3 @@
+2016-02-29 09:29:16 INFO  LoggingApp:14 - Hello logging!
+2016-02-29 09:29:16 WARN  LoggingApp:15 - Hello logging!
+2016-02-29 09:29:16 ERROR LoggingApp:16 - Hello logging!
